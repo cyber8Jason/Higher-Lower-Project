@@ -14,7 +14,7 @@ TOP_ARTICLES = wikipedia_database.get_top_titles()
 COUNTRIES_WITH_POPULATION = wikipedia_database.get_geo_datas()
 # Globale Variable für den HIGHSCORE
 HIGHSCORES_FILE = "highscores.json"
-USER_NAME = "TEST"
+USER_NAME = "TEST2"
 HIGHSCORE = 0
 
 
